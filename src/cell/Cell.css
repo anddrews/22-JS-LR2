@@ -1,0 +1,11 @@
+.cell {
+    width: 33,3%;
+    aspect-ratio: 1 / 1;
+    padding: 20px;
+    border-left: 1px solid black;
+}
+
+.cell:last-child {
+    border-right: 1px solid black;
+}
+

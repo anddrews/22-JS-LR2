@@ -1,0 +1,16 @@
+.main-section {
+    padding: 10px 0;
+    outline: 1px solid black;
+    margin-bottom: 20px;
+
+    .main-section__title {
+        font-weight: bold;
+        font-size: 40px;
+        color: tomato;
+        margin-top: 0;
+    }
+
+    .main-section__content {
+        background-color: #f7f3f3;
+    }
+}
